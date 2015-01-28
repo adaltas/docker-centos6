@@ -1,4 +1,4 @@
-#docker build -t adaltas/centos6 .
+#docker build -t pierrotws/centos6 .
 FROM scratch
 MAINTAINER Pierre Sauvage<pierre@adaltas.com>
 
